@@ -1,2 +1,0 @@
-{"prompt": "Solve: 12 + 7", "chosen": "12 + 7 = 19. #### 19", "rejected": "12 + 7 = 20. #### 20"}
-{"prompt": "Solve: 5 * 6", "chosen": "5 times 6 equals 30. #### 30", "rejected": "The answer is 11. #### 11"}
